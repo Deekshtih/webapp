@@ -5,7 +5,7 @@
   <groupId>com.companyname.automobile </groupId>
   <artifactId>ziras</artifactId>
   <version>maven-archetype-webapp</version>
-  <packaging>war</packaging>
+  <packaging>jar</packaging>
 
   <name>ziras</name>
   <url>http://maven.apache.org</url>
